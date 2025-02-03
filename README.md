@@ -1,5 +1,6 @@
 NeoHb-sensor-code
-The software includes
+
+The software includes:
 
 - Accepts red and IR led initial light intensity
 - Accepts red and IR led light transmitted light intensity after getting a signal from android app
